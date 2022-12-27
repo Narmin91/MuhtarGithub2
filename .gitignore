@@ -1,1 +1,5 @@
 /src/
+/out
+/.idea
+/.gitignore
+/MuhtarGithub2.iml
